@@ -1,0 +1,8 @@
+- axios
+- lodash
+- moment
+- hightcharts
+- hightcharts/highcharts-react-official
+- @highcharts/map-collection
+- @material-ui/core
+- @fontsource/roboto
